@@ -1,0 +1,16 @@
+{
+  "name": "QikJobs",
+  "short_name": "QikJobs",
+  "icons": [
+    {
+      "src": "/Logo32x32.jpg",
+      "type": "image/jpg",
+      "sizes": "32x32"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}
+
+
